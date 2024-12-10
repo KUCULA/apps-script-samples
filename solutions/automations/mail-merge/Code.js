@@ -27,6 +27,7 @@ limitations under the License.
 */
 const RECIPIENT_COL  = "Recipient";
 const EMAIL_SENT_COL = "Email Sent";
+const EMAIL_STATUS_COL = "Email Status";
  
 /** 
  * Creates the menu item "Mail Merge" for user to run scripts on drop-down.
